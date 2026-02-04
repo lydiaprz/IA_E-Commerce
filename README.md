@@ -5,7 +5,7 @@ Este repositorio contiene mi **Proyecto Final** centrado en el desarrollo de un 
 ## 📊 Descripción del Proyecto
 El objetivo principal es implementar un modelo predictivo que permita a las empresas del sector e-commerce estimar la rentabilidad de sus transacciones basándose en datos históricos como ventas, cantidad de productos y ubicación geográfica.
 
-El proyecto está desarrollado íntegramente en **Jupyter Notebooks (100.0%)** [1].
+El proyecto está desarrollado íntegramente en **Jupyter Notebooks (100.0%)**.
 
 ## 📂 Estructura del Repositorio
 Siguiendo una organización modular [2], el repositorio se divide en:
@@ -21,11 +21,14 @@ Siguiendo una organización modular [2], el repositorio se divide en:
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1. **Clonar el repositorio**:
-   ```bash
+   ```
    git clone https://github.com/lydiaprz/IA_E-Commerce.git
+   ```
 2. Instalar dependencias:
 3. Ejecutar los notebooks: Abre los archivos en la carpeta notebooks/ siguiendo el orden numérico.
-🚀 Conclusiones
+
+## 🚀 Conclusiones
 Tras el entrenamiento y evaluación de los modelos, se determinó que el Random Forest Regressor ofrece una mayor precisión al capturar relaciones no lineales complejas, siendo la herramienta recomendada para la predicción de beneficios en este dataset.
-👤 Autora
+
+## 👤 Autora
 • Lydia Pérez - lydiaprz
