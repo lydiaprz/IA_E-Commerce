@@ -25,7 +25,14 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
    git clone https://github.com/lydiaprz/IA_E-Commerce.git
    ```
 2. Instalar dependencias:
-3. Ejecutar los notebooks: Abre los archivos en la carpeta notebooks/ siguiendo el orden numérico.
+   ```
+   pip install -r requirements.txt
+   ```
+   En caso de que no se reconozca el comando pip usar este:
+   ```
+   python -m pip install -r requirements.txt
+   ```
+4. Ejecutar los notebooks: Abre los archivos en la carpeta notebooks/ siguiendo el orden numérico.
 
 ## 🚀 Conclusiones
 Tras el entrenamiento y evaluación de los modelos, se determinó que el Random Forest Regressor ofrece una mayor precisión al capturar relaciones no lineales complejas, siendo la herramienta recomendada para la predicción de beneficios en este dataset.
